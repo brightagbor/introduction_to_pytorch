@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Trained models
+*.keras
+*.h5
+*.weights.h5
+
+# ZIP / archive files
+*.zip
+
+# Monitoring data
+data/monitoring_records.csv
